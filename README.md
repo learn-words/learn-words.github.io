@@ -14,7 +14,7 @@
 
 Για να χρησιμοποιήσετε την εφαρμογή, κάντε κλικ στον ακόλουθο σύνδεσμο:
 
-https://learn-words.github.io/words-1/
+[Learning Words](https://learn-words.github.io/words-1/)
 
 Παρότι η εφαρμογή έχει τη δυνατότητα να λειτουργήσει σε όλες τις προαναφερόμενες συσκευές, απαιτείται πρώτα να υπάρξουν εκτενείς δοκιμές και διορθώσεις για την σωστή λειτουργία της.
 
@@ -57,7 +57,7 @@ https://learn-words.github.io/words-1/
 
 Σημείωση: Όλα τα ονόματα των κρατών, πρωτευουσών και γλωσσών, είναι τα επίσημα ονόματα της ΕΕ στην Αγγλική και στην Ελληνική γλώσσα, όπως ακριβώς εμφανίζονται στον επίσημο ισότοπο της ΕΕ:  
 
-https://europa.eu/european-union/about-eu/countries/member-countries_en   
-https://europa.eu/european-union/about-eu/countries/member-countries_el   
+[EU countries](https://europa.eu/european-union/about-eu/countries/member-countries_en)
+[Χώρες ΕΕ](https://europa.eu/european-union/about-eu/countries/member-countries_el)
 
 Υπάρχει επίσης η δυνατότητα προσαρμογής της εφαρμογής με λέξεις της προσωπικής μας επιλογής. Οι οδηγίες αυτές όμως θα αναφερθούν σε άλλο τμήμα, το οποίο θα περιλαμβάνει αναλυτικές πληροφορίες για την προσαρμογή της εφαρμογής στα δικά μας δεδομένα.
