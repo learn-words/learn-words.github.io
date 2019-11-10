@@ -56,6 +56,7 @@ https://lean-words.github.io/words-1/
 * Level 5: EU Capitals / Πρωτεύουσες ΕΕ
 
 Σημείωση: Όλα τα ονόματα των κρατών, πρωτευουσών και γλωσσών, είναι τα επίσημα ονόματα της ΕΕ στην Αγγλική και στην Ελληνική γλώσσα, όπως ακριβώς εμφανίζονται στον επίσημο ισότοπο της ΕΕ:  
+
 https://europa.eu/european-union/about-eu/countries/member-countries_en   
 https://europa.eu/european-union/about-eu/countries/member-countries_el   
 
