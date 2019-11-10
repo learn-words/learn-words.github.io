@@ -57,7 +57,7 @@
 
 Σημείωση: Όλα τα ονόματα των κρατών, πρωτευουσών και γλωσσών, είναι τα επίσημα ονόματα της ΕΕ στην Αγγλική και στην Ελληνική γλώσσα, όπως ακριβώς εμφανίζονται στον επίσημο ισότοπο της ΕΕ:  
 
-[EU countries](https://europa.eu/european-union/about-eu/countries/member-countries_en)
+[EU countries](https://europa.eu/european-union/about-eu/countries/member-countries_en)   
 [Χώρες ΕΕ](https://europa.eu/european-union/about-eu/countries/member-countries_el)
 
 Υπάρχει επίσης η δυνατότητα προσαρμογής της εφαρμογής με λέξεις της προσωπικής μας επιλογής. Οι οδηγίες αυτές όμως θα αναφερθούν σε άλλο τμήμα, το οποίο θα περιλαμβάνει αναλυτικές πληροφορίες για την προσαρμογή της εφαρμογής στα δικά μας δεδομένα.
