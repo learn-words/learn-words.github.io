@@ -18,7 +18,7 @@
 
 Παρότι η εφαρμογή έχει τη δυνατότητα να λειτουργήσει σε όλες τις προαναφερόμενες συσκευές, απαιτείται πρώτα να υπάρξουν εκτενείς δοκιμές και διορθώσεις για την σωστή λειτουργία της.
 
-Στην προκειμένη περίπτωση, η εφαρμογή έχει δοκιμαστεί μόνον για υπολογιστές (όλοι οι browsers) και για tablet και smartphone Android (χρησιμοποιώντας τον browser Google Chrome).
+Στην προκειμένη περίπτωση, η εφαρμογή έχει δοκιμαστεί μόνον σε υπολογιστές Windows (σε όλους τους browsers) και σε tablet και smartphone Android (χρησιμοποιώντας τον browser Google Chrome). Πιθανότατα όμως θα λειτουργεί και στους υπολογιστές, tablet και smartphone της Apple, εφόσον χρησιμοποιηθεί ο browser Google Chrome.
 
 ![screenshot of an app that helps to learn new words](imgs/screen01.PNG)
 
