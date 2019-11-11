@@ -44,6 +44,8 @@
 
 Προσοχή όμως γιατί θα πρέπει να χρησιμοποιούμε τόνους όταν γράφουμε στα ελληνικά, ούτως ώστε να είναι σωστή η απάντηση που δίνουμε.  
 
+![screenshot of an app that helps to learn new words while showing the results for an incorrect answer](imgs/screen04.PNG)  
+
 
 ## Προσαρμογή της εφαρμογής
 
